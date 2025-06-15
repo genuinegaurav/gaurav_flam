@@ -22,7 +22,6 @@ Features:
 
 Setup Instructions:
 1. Clone the repo:
-   git clone https://github.com/your-handle/OpenCVEdgeDetection.git && cd OpenCVEdgeDetection
 2. Install Android NDK (version r27+): via SDK Manager → NDK
 3. Install CMake (version ≥ 3.22): via SDK Manager → CMake
 4. Set $ANDROID_NDK_HOME if building from CLI to point to installed NDK
